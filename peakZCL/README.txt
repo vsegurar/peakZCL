@@ -28,7 +28,7 @@ This script need no installation, but has the following requirements:
 ##  BASIC Usage
 	./PeakZCL.sh -f /path/to/CHIP/directory/
 
-## Before running your analysis you must to copy the file "chr_names.txt" to the CHIP directory. In this file you can select, (writing it or deleting the rest) the chromosome/s that you need to analyze. 
+## Before running your analysis you must copy the file "chr_names.txt" to the CHIP directory. In this file you can select, (writing it or deleting the rest) the chromosome/s that you need to analyze. 
 
 For more information type:
 	./PeakZCL.sh
@@ -36,7 +36,7 @@ For more information type:
 ## License
 MIT License
 
-Copyright (c) 2019 JosÈ Gonz·lez Gomariz
+Copyright (c) 2019 Jos√© Gonz√°lez Gomariz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
